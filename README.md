@@ -32,10 +32,10 @@ To run this notebook, ensure you have the following dependencies installed:
 - Modify parameters as needed based on your specific use case.
 
 ## Author
-Aneesh M, CAN ID Number: CAN_33507740
-Md. Qamar Raza, CAN ID Number: CAN_33508382
-Mohammed Mufeez Ahamed, CAN ID Number: CAN_33796941
-Hari Shankar Shaw CAN ID Number: CAN_33538955
+- Aneesh M, CAN ID Number: CAN_33507740
+- Md. Qamar Raza, CAN ID Number: CAN_33508382
+- Mohammed Mufeez Ahamed, CAN ID Number: CAN_33796941
+- Hari Shankar Shaw CAN ID Number: CAN_33538955
 
 ## License
 This project is licensed under the MIT License.
